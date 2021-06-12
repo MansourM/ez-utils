@@ -1,3 +1,4 @@
 rootProject.name = "Mansour EZ Utils"
 include ':example'
 include ':android-font-awesome'
+include ':test'
